@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "115317192519",
+    "project_id": "otp-fire",
+    "storage_bucket": "otp-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115317192519:android:2e6fb6a90ca30f1299fe62",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115317192519-rp7olfn2shi0voc3llv4es1fuqp4osem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJyHzmZoC8_08J10ZYeo7fhG4O-y6v0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115317192519-rp7olfn2shi0voc3llv4es1fuqp4osem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115317192519:android:0f08c2d60c5435c899fe62",
+        "android_client_info": {
+          "package_name": "com.firebasern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115317192519-rp7olfn2shi0voc3llv4es1fuqp4osem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJyHzmZoC8_08J10ZYeo7fhG4O-y6v0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115317192519-rp7olfn2shi0voc3llv4es1fuqp4osem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115317192519:android:915280f4d158a76b99fe62",
+        "android_client_info": {
+          "package_name": "com.raulfirebasern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115317192519-1ceubcmkb3kafth790aqtk896b351f0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raulfirebasern",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "115317192519-rp7olfn2shi0voc3llv4es1fuqp4osem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJyHzmZoC8_08J10ZYeo7fhG4O-y6v0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115317192519-rp7olfn2shi0voc3llv4es1fuqp4osem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
