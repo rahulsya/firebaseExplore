@@ -85,6 +85,9 @@ export default function App(){// Set an initializing state whilst Firebase conne
       <Text>
         Welcome! {user.phoneNumber} linked with {user.email}
       </Text>
+      <Text>
+      data baru  
+      </Text>
     );
   }
 }
